@@ -1,1 +1,2 @@
-purple
+color:purple
+email:jdewa2@illinois.edu
